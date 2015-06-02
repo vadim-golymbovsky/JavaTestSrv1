@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/SoftMaster/JavaTestBeakEnd.git/!svn/ver/2/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/SoftMaster/JavaTestBeakEnd.git/!svn/ver/1/trunk/LICENSE
+END
+JavaTestBeakEnd.iml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/SoftMaster/JavaTestBeakEnd.git/!svn/ver/6/trunk/JavaTestBeakEnd.iml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/SoftMaster/JavaTestBeakEnd.git/!svn/ver/1/trunk/.gitignore
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/SoftMaster/JavaTestBeakEnd.git/!svn/ver/1/trunk/README.md
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/SoftMaster/JavaTestBeakEnd.git/!svn/ver/6/trunk/pom.xml
+END
